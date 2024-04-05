@@ -11,7 +11,7 @@
     --bg-color: #081b29;
     --second-bg-color: #112e42;
     --text-color: #ededed;
-    --main-color: #00abf0;
+    --main-color: #f000cc;
 }
 html{
     font-size: 100%;
@@ -169,8 +169,8 @@ span{
 }
 .about-img{
     position: relative;
-    width: 15rem;
-    height: 15rem;
+    width: 10rem;
+    height: 10rem;
     border-radius: 50%;
     display: flex;
     justify-content: center;
